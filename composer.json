@@ -1,0 +1,19 @@
+{
+    "name": "asciito/dispersion",
+    "description": "Librería para generar la dispersión de los bancos de México.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Asciito\\Dispersion\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AyDev",
+            "email": "ayaxdev.mx@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}
